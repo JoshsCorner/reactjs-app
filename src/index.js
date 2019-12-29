@@ -10,6 +10,9 @@ function App() {
     <div className="App">
       <h1>React.JS</h1>
       <h2>Hello! This is my first react application.</h2>
+
+      <p>Here is another paragraph!</p>
+      <p>Oh look, it's another one!</p>
     </div>
   );
 }
